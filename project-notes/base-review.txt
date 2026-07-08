@@ -1,0 +1,8 @@
+Paper Bulletin / Base review note
+
+This repository contains public project proof for a Base dApp.
+Build ID: 6a0838fa4c3f57496e8396b8
+Builder Code: bc_0c1pi66x
+Live Demo: https://paper-bulletin.vercel.app
+
+No private operational material is stored in this note.
